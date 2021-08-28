@@ -3,14 +3,11 @@ output:
   pdf_document: default
   html_document: default
 ---
-
 # Helpful resources
 
 There are many other websites, books and resources that exist to help facilitate meta-analysis. We outline some of those here. As always, please reach out to us via our GitHub issues page to suggest more resources to circulate to the community.
 
 ## Meta-analysis books on github:
-
-
 
 ### References managers  
 
